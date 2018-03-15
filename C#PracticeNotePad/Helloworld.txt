@@ -1,0 +1,10 @@
+using system;
+
+public class program
+{
+	static void main()
+	{
+	system.console.writeline("Hello World...");
+	}
+	
+}

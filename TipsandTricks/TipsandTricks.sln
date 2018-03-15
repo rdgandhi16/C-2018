@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversestring", "Reversestring\Reversestring.csproj", "{6025CDDE-A5A6-4DC6-90F4-C97662291EFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reversestring", "Reversestring\Reversestring.csproj", "{6025CDDE-A5A6-4DC6-90F4-C97662291EFF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeNumber", "PrimeNumber\PrimeNumber.csproj", "{80DCC7C9-3677-4BC9-85DD-1FD28B8341DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime", "Prime\Prime.csproj", "{2529B333-F088-4F91-938D-EDCEB3444D2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{6025CDDE-A5A6-4DC6-90F4-C97662291EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6025CDDE-A5A6-4DC6-90F4-C97662291EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6025CDDE-A5A6-4DC6-90F4-C97662291EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80DCC7C9-3677-4BC9-85DD-1FD28B8341DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80DCC7C9-3677-4BC9-85DD-1FD28B8341DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80DCC7C9-3677-4BC9-85DD-1FD28B8341DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80DCC7C9-3677-4BC9-85DD-1FD28B8341DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2529B333-F088-4F91-938D-EDCEB3444D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2529B333-F088-4F91-938D-EDCEB3444D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2529B333-F088-4F91-938D-EDCEB3444D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2529B333-F088-4F91-938D-EDCEB3444D2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
